@@ -15,7 +15,7 @@ int main() {
 	//eyes
 	circle(220, 230, 15); //left eye
 	circle(280, 230, 15); //right eye
-	circle(220, 230, 5) //left pupil
+	circle(220, 230, 5); //left pupil
 	circle(280, 230, 5); //right pupil
 
 	//nose
